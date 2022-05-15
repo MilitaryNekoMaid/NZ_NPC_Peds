@@ -82,8 +82,6 @@ This repository was created by TayMcKenzieNZ and does not contain a license, the
 
 ***You are not allowed to change/add a license.*** If you want to modify or make an agreement, you can contact me.
 
-You may repack this with more clothing, hairs, and/or tattoos etc for your own usage, however you may not redistribute it or sell it.
-
 You may not encrypt it or upload to tebex escrow.
 
 You can read more here [HERE](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license)
