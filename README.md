@@ -29,6 +29,17 @@ I want to express to any law enforcement that I have no control over how people 
 
 ---------------------------------------
 
+# Male NPC Police Officer 👮🏻‍♂️
+
+I have not included a Male NPC Police Officer as there have already been two made. You can check them out here:
+
+[OPTION 1 WITH TATTOOS](https://www.gta5-mods.com/player/new-zealand-police-uniform-tattoos)
+
+
+[OPTION 2 WITH CUSTOM POLICE BELT AND TAZER](https://www.lcpdfr.com/downloads/gta5mods/character/21221-nz-police-ped/)
+
+- For option 2, download the file and rename it to `s_m_y_cop_01`, then download the ped file from [here](https://www.lcpdfr.com/downloads/gta5mods/character/18219-le-redated/) and stream the `new cop` folder's content to this resource.
+
 # Screenshots 📸
 
 
