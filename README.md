@@ -19,13 +19,13 @@ I want to express to any law enforcement that I have no control over how people 
 
 # **FEATURES:** 🌟
 
-**MP Male and MP Female**
+**NPC Male and MP Female**
 
 - Police Female NZ Textures
 - Firefighter Male NZ Textures (Helmet Included)
-- St John Male Paramedic NZ Textures (Hat Included)
-- Police and St John Cap
-- Police Hat NPC Male and NPC Female NZ Textures
+- St John Male Paramedic NZ Textures
+- Paramedic hat retextured 
+- Police hat NPC Male and NPC Female NZ Textures
 
 ---------------------------------------
 
