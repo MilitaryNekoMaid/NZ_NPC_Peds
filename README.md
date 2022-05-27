@@ -21,11 +21,17 @@ I want to express to any law enforcement that I have no control over how people 
 
 **NPC Male and MP Female**
 
-- Police Female NZ Textures
-- Firefighter Male NZ Textures (Helmet Included)
-- St John Male Paramedic NZ Textures
-- Paramedic hat retextured 
-- Police hat NPC Male and NPC Female NZ Textures
+- Female Police
+- Male Police Hat
+- Female Police Hat
+- Male Ranger
+- Female Ranger
+- Male Sheriff
+- Female Sheriff
+- Male Fireman
+- Male Paramedic
+- Male Prison Guard 
+- Male Swat
 
 ---------------------------------------
 
